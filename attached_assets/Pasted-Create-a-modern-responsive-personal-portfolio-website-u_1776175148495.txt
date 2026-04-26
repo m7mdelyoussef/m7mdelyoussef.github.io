@@ -1,0 +1,59 @@
+Create a modern, responsive personal portfolio website using HTML, CSS, and JavaScript.
+
+The portfolio is for Mohamad Elyoussef, a final-year IT Networking & Security student based in Ajman, UAE, seeking a cybersecurity internship.
+
+Design requirements:
+- Dark theme (black/dark gray background)
+- Minimal, clean, and professional developer-style layout
+- Smooth scrolling and subtle animations
+- Strong typography with large headings
+- Blue or purple accent color
+
+Sections to include:
+
+1. Hero Section:
+- Name: Mohamad Elyoussef
+- Title: Cybersecurity Student | Future Penetration Tester
+- Short tagline about passion for cybersecurity, networking, and cloud
+
+2. About Section:
+- Final-year student at Ajman University
+- Interested in penetration testing, network security, and cloud computing
+- Seeking internship to apply technical skills
+
+3. Skills Section:
+Categorized into:
+- Cybersecurity (Penetration Testing, Web Security, Threat Detection)
+- Networking (Network Design, Protocol Analysis, VPN)
+- Tools (Nmap, Metasploit, Burp Suite, Wireshark, AWS, Linux)
+- Programming (Python, Java, JavaScript, Kotlin, C#)
+
+4. Projects Section:
+Include:
+- Cybersecurity labs (Nmap, Metasploit, Burp Suite)
+- Network Design project (TechNova Solutions)
+- Android Kotlin App (Car Maintenance Reminder)
+- Gaming Website
+- Network Simulation projects
+
+5. Experience Section:
+- GITEX Global participation
+- Digital Dubai visit
+- IT Club coding competition
+
+6. Certifications Section:
+- Google Cybersecurity Certificate
+- ISC2 Certified in Cybersecurity (CC)
+- AWS Cloud certifications
+- SQL and IoT certifications
+
+7. Contact Section:
+- Email: moahamdelyoussef08@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohamadelyoussef/
+- GitHub: https://github.com/Mohamad00Ahmad
+
+Additional requirements:
+- Responsive design (mobile-friendly)
+- Navigation bar with smooth scrolling
+- Hover effects for buttons and project cards
+- Clean and professional layout similar to a high-end developer portfolio

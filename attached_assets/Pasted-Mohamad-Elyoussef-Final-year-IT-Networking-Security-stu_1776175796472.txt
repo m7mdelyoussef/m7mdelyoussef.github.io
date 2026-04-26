@@ -1,0 +1,207 @@
+Mohamad Elyoussef
+Final-year IT Networking & Security student @ Ajman University
+
+About
+Fina year IT Networking & Security student at Ajman University seeking a summer internship to apply my technical skills and further my practical security experience.
+
+
+
+POSTS 
+
+Today I had the privilege of visiting Digital Dubai and exploring innovations that truly align with my interests in cybersecurity and AI
+
+The visit provided valuable insights into how DubaiNow and UAE Pass deliver secure and seamless government services, how unified digital platforms improve efficiency, and how robust cybersecurity practices protect both individuals and national systems. I also learned more about secure authentication, the risks of social engineering and deepfakes, and how AI can be responsibly integrated to enhance digital services. The sessions offered practical strategies to tackle real-world cyber threats
+
+A special thank you to Ms.Afra Mohammed AlMansoori for delivering a clear and insightful overview of information security and raising our awareness of emerging digital threats
+
+I also appreciated the insights shared by Mr.Sultan Ali Bintowaih Alsuwaidi and Mr.Hilal Alsuwaidi on UAE Pass and its crucial role in enabling secure, seamless access to government services across the UAE
+
+A big thank you to my colleagues(omar kannas , SHAHEM ALBAKRI, Othman AlAli) and IT Club members(Muayyed Ismail, Abdollah Eltefati, Rami Alatrash, Yousef Ghrati,and others) for their support and collaboration throughout the visit, and a special thanks to Dr.Omar Shalash for his guidance and encouragement in making this experience so inspiring
+
+And as Muayyed Ismail perfectly said — Great experience. Great people. Great learning
+
+I’ve completed all 13 learning pathways in the Android Development with Kotlin course by Google for Developers . This experience helped me strengthen my skills in building Android applications using Kotlin and Jetpack Compose.
+
+I would like to thank Dr. Mahmoud Hammad for his guidance and support throughout the Mobile Application course. His lectures made learning both engaging and enjoyable.
+
+Yesterday, I had the opportunity to attend GITEX Global 2025, one of the world’s largest technology and startup events. It was an insightful experience exploring how Digital Dubai is transforming government services.
+
+I was particularly impressed by Salama, their AI system that enables users to pay bills efficiently, collect feedback through voice, and measure satisfaction in real time and a great example of how AI is enhancing public services.
+
+I also got to see innovative technologies like a dancing robot that dances better than me and a robotic dog, and may more all showcasing how far robotics and automation have come.
+
+Throughout the day, I explored exhibits from leading companies such as e& , Huawei, Cisco,Microsoft ,Amazon Web Services (AWS) ,and NVIDIA, learning how they are leveraging AI and cloud technologies to drive progress and innovation.
+
+It was also great connecting with industry professionals and learning from their experiences and insights that will definitely help me grow in the tech field.
+
+Finally, a special thanks to Digital Dubai for the invitation and for demonstrating how technology continues to shape a smarter and more connected future.
+
+Attended alongside my friends SHAHEM ALBAKRI, omar kannas,Othman AlAli , Obada Sankary,Muayyed Ismail and fellow IT Club members Muayyed Ismail,Abdollah Eltefati, Rami Alatrash, Yousef Ghrati, Moatassim Arbaoui that made it inspiring and memorable day!
+
+hashtag#GITEX hashtag#DigitalDubai hashtag#AI hashtag#Cloud hashtag#Innovation hashtag#Technology hashtag#SmartCity hashtag#Dubai
+GITEX GLOBAL Largest Tech & Startup Show in the World
+
+Today I participated in the IT Club’s Coding Battle, organized by Ajman University in collaboration with Dubai Police Academy , and it was an exciting experience.
+
+My teammates and I worked through two intense rounds, intermediate and advanced, with no AI, no internet, and no notes, relying entirely on our skills, teamwork, and problem-solving. It was amazing to see what we could accomplish when we focused and collaborated.
+
+Events like these are not just about coding. They are about thinking under pressure, learning quickly, and enjoying the process.
+
+During our lunch break, I joined my friend SHAHEM ALBAKRI, Othman AlAli, omar kannas , and we discussed how the competition challenged us to think faster under pressure while solving problems as a team. Moments like these reinforced the value of collaboration, quick thinking, and maintaining a positive attitude in a competitive environment.
+
+Huge thanks to the president of the IT Club Muayyed Ismail , Ajman University, Dubai Police Academy/Dubai Police, LAVISH PERFUMES, ZAKA Ambassadors , and all other sponsors for creating this opportunity for students to challenge themselves and connect through code.
+
+and I did coding battle 2 times and 1 hackathon and 1 CTF and webt to digital dubai and went to gitex and participated in many labs  
+
+
+Licenses & certifications
+
+Coursera logo
+Advanced Relational Database and SQL
+Credential ID B2KZ3G59I092
+
+ISC2 logo
+Certified in Cybersecurity (CC)
+Credential ID 5EJ1Z6515A96
+
+Yonsei University logo
+IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies 
+Credential ID 5MJUENNTHLBX
+
+Google logo
+Google Cyber Security Professional 
+Credential ID 0HVUQ3HGHMMB
+
+ZAKA | زكا logo
+Getting Started with Python for Data Science  
+Credential ID ot0tsc7s90
+
+Amazon Web Services (AWS) logo
+AWS Academy Graduate - AWS Academy Cloud Operations 
+Credential ID 975c14ab-f929-4092-994a-fcf4c2ca9807
+
+Amazon Web Services (AWS) logo
+AWS Academy Graduate - AWS Academy Cloud Foundations
+Credential ID 66de0f7c-fb57-422a-af4b-ad8ea725bc2a
+
+IBM logo
+Introduction to Networking and Storage
+Credential ID C7KYDTLUN7DA
+
+Coursera logo
+Understanding basic SQL Syntax
+Credential ID JMK03ZSR3DTE
+
+for certification dont put them above eachother like when some press ledt or right it switches to the next certification 
+Education
+
+Ajman University logo
+Bachelor's degree, IT networking & Security
+2022 – Jan 2027
+
+Al Ma'arifa International Private School
+High School Diploma
+2014 – 2022
+
+Projects
+
+Car Maintenance Reminder App
+
+
+Associated with Ajman University
+
+• Designed and developed a mobile app using Kotlin for Android to  help users track and 
+schedule vehicle maintenance. 
+• Implemented features such as service reminders, mileage tracking, and notifications to 
+improve user convenience. 
+• Tested and debugged the app to ensure smooth performance, intuitive UI, and reliable 
+notifications.
+
+Cybersecurity & Penetration Testing Labs
+
+
+Associated with Ajman University
+
+• Conducted comprehensive network scanning and vulnerability assessments using Nmap 
+to identify open ports and services. 
+• Executed controlled exploits against vulnerable environments utilizing the Metasploit 
+Framework. 
+• Intercepted and analyzed web application traffic to identify and mitigate vulnerabilities 
+using Burp Suite.
+
+Gaming Website with Integrated Mini-Game
+
+
+Associated with Ajman University
+
+• Designed and developed an interactive gaming website featuring an embedded mini
+game for enhanced user engagement.  
+• Implemented front-end development using HTML, CSS, and JavaScript to create 
+responsive and user-friendly interfaces.  
+• Integrated game logic, scoring system, and interactive elements to deliver a dynamic 
+user experience.
+
+pr - Google Drive
+
+Network Design and Management Project: TechNova Solutions
+
+
+Associated with Ajman University
+
+• Designed a scalable and secure WAN/LAN infrastructure for an expanding IT services 
+company to support up to 150 concurrent users across three UAE branches. 
+• Developed a three-tier hierarchical network topology (Core, Distribution, Access) 
+utilizing Cisco hardware and a Hub-and-Spoke VPN for secure inter-branch connectivity. 
+• Engineered a high-availability architecture targeting 99.95% uptime by integrating 
+dual-homed ISPs, redundant multilayer switches and routers, and First Hop 
+Redundancy Protocols (HSRP/VRRP). 
+• Optimized network performance for mission-critical applications by designing a 10 
+Gbps backbone throughput and configuring Quality of Service (QoS) policies to prioritize 
+VoIP and video traffic (sub-50ms latency). 
+• Implemented a multi-layered security strategy utilizing perimeter firewalls, strict 
+VLAN segmentation, and Multi-Factor Authentication (MFA), alongside a Class C IP 
+addressing scheme using VLSM.
+
+Thumbnail for final report..docx
+final report..docx
+
+Network Simulation and Administration Projects
+
+
+Associated with Ajman University
+
+• Designed, configured, and simulated enterprise-level secure network architectures and 
+topologies using Cisco Packet Tracer. 
+• Implemented security protocols, configured firewalls, and established secure VPN 
+connections to ensure data integrity. 
+• Tested routing protocols, IP addressing, and network security configurations to 
+troubleshoot and optimize performance.
+
+Unity Game Development Project
+
+
+Associated with Ajman University
+
+• Designed and developed an interactive game using Unity and C, implementing game play 
+mechanics, player controls, and interactive UI. 
+• Implemented basic AI behaviors, collision detection, and scoring system to enhance 
+player experience. 
+• Tested and debugged the game to ensure smooth performance and a polished user 
+experience
+
+Web Development Projects
+
+
+Associated with Ajman University
+
+• Developed dynamic and responsive web applications using HTML, CSS, JavaScript, 
+and XML.  
+• Designed user-friendly interfaces and implemented interactive features to enhance our 
+ability.   
+• Built an e-commerce prototype with login, user tracking, and shopping cart functionality.  
+• Implemented cookies and session management to deliver a personalized user experience.  
+• Utilized structured data management and front-end integration techniques for seamless 
+performance.
+
+
+for skills put languages and tools I  used only like out th logo for the program language and the tool and when they press on logo it shale pop the name for few seconds then disappear its cool  

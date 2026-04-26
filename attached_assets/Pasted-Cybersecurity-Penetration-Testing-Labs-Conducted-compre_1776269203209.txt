@@ -1,0 +1,31 @@
+Cybersecurity & Penetration Testing Labs
+• Conducted comprehensive network scanning and vulnerability assessments using Nmap and Nessus to identify open ports and services.
+• Executed controlled exploits against vulnerable environments utilizing the Metasploit Framework.
+• Intercepted and analyzed web application traffic to identify and mitigate vulnerabilities using Burp Suite. Network Design and Management Project: TechNova Solutions make a button to press and show this link
+https://docs.google.com/document/d/1JJ_T-ITZSjNQaZGzfjyNFNU85kaZnSvR/edit?pli=1
+• Designed a scalable and secure WAN/LAN infrastructure for an expanding IT services company to support up to 150 concurrent users across three UAE branches.
+• Developed a three-tier hierarchical network topology (Core, Distribution, Access) utilizing Cisco hardware and a Hub-and-Spoke VPN for secure inter-branch connectivity.
+• Engineered a high-availability architecture targeting 99.95% uptime by integrating dual-homed ISPs, redundant multilayer switches and routers, and First Hop Redundancy Protocols (HSRP/VRRP).
+• Optimized network performance for mission-critical applications by designing a 10 Gbps backbone throughput and configuring Quality of Service (QoS) policies to prioritize VoIP and video traffic (sub-50ms latency).
+• Implemented a multi-layered security strategy utilizing perimeter firewalls, strict VLAN segmentation, and Multi-Factor Authentication (MFA), alongside a Class C IP addressing scheme using VLSM. Gaming Website with Integrated Mini-Game make a button to show this link
+https://drive.google.com/drive/folders/1mnd68uz0DdqcJS2OOATjXSrWvuc-0tHz
+• Designed and developed an interactive gaming website featuring an embedded mini-game for enhanced user engagement.
+• Implemented front-end development using HTML, CSS, and JavaScript to create responsive and user-friendly interfaces.
+• Integrated game logic, scoring system, and interactive elements to deliver a dynamic user experience
+Unity Game Development Project
+https://drive.google.com/file/d/126JLXttt4jxcUoKdxKEUcipytzfDK1UQ/view
+• Designed and developed an interactive game using Unity and C, implementing game play mechanics, player controls, and interactive UI.
+• Implemented basic AI behaviors, collision detection, and scoring system to enhance player experience.
+• Tested and debugged the game to ensure smooth performance and a polished user experience
+
+Web Development Projects
+• Developed dynamic and responsive web applications using HTML, CSS, JavaScript, and XML.
+• Designed user-friendly interfaces and implemented interactive features to enhance our ability.
+• Built an e-commerce prototype with login, user tracking, and shopping cart functionality.
+• Implemented cookies and session management to deliver a personalized user experience.
+• Utilized structured data management and front-end integration techniques for seamless performance.
+Car Maintenance Reminder App
+https://drive.google.com/file/d/16PBzCE7yecZ2dR7vEu2Dzk8gTnJCxtTY/view
+• Designed and developed a mobile app using Kotlin for Android to help users track and schedule vehicle maintenance.
+• Implemented features such as service reminders, mileage tracking, and notifications to improve user convenience.
+• Tested and debugged the app to ensure smooth performance, intuitive UI, and reliable notifications.
